@@ -1,0 +1,29 @@
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Weather Assistant.exe
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Weather Assistant.deps.json
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Weather Assistant.runtimeconfig.json
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Weather Assistant.runtimeconfig.dev.json
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Weather Assistant.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Weather Assistant.pdb
+D:\Work\Contest\Weather Assistant\Weather Assistant\obj\Debug\netcoreapp3.1\Weather Assistant.csproj.AssemblyReference.cache
+D:\Work\Contest\Weather Assistant\Weather Assistant\obj\Debug\netcoreapp3.1\Weather Assistant.AssemblyInfoInputs.cache
+D:\Work\Contest\Weather Assistant\Weather Assistant\obj\Debug\netcoreapp3.1\Weather Assistant.AssemblyInfo.cs
+D:\Work\Contest\Weather Assistant\Weather Assistant\obj\Debug\netcoreapp3.1\Weather Assistant.csproj.CoreCompileInputs.cache
+D:\Work\Contest\Weather Assistant\Weather Assistant\obj\Debug\netcoreapp3.1\Weather Assistant.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\obj\Debug\netcoreapp3.1\Weather Assistant.pdb
+D:\Work\Contest\Weather Assistant\Weather Assistant\obj\Debug\netcoreapp3.1\Weather Assistant.genruntimeconfig.cache
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Flurl.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Flurl.Http.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\obj\Debug\netcoreapp3.1\Weather Assistant.csproj.CopyComplete
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Work\Contest\Weather Assistant\Weather Assistant\bin\Debug\netcoreapp3.1\appsettings.json
