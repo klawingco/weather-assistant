@@ -14,6 +14,10 @@ This also uses Flurl for HTTP Connection and Linq for some array/queryable/ienum
 3. Run it and Have fun
 
 
+## Gotchas
+1. Rain here in a sense doesn't take into consider the snow. Only water rains and showers. If that's a requirement that's easy to add at WeatherCodes.cs
+
+
 ## A quick demo on it
 
 ![Demo](./WeatherAssistant.png)
